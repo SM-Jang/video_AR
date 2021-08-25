@@ -1,0 +1,58 @@
+
+data: embeddings
+
+DNN
+Epoch 9/10 | Loss 0.0430 | Accuracy 72.94
+The test accuracy 75.96%
+
+1DCNN
+Epoch 9/10 | Loss 0.0000 | Accuracy 98.53
+The test accuracy 86.75%
+
+2DCNN
+Epoch 9/10 | Loss 0.0009 | Accuracy 74.93
+The test accuracy 75.65%
+
+
+data: elementwise
+
+DNN
+Epoch 9/10 | Loss 4.1131 | Accuracy 2.00
+The test accuracy 2.24%
+
+1DCNN
+Epoch 9/10 | Loss 0.0000 | Accuracy 98.06
+The test accuracy 77.59%
+
+2DCNN
+Epoch 9/10 | Loss 1.9365 | Accuracy 28.53
+The test accuracy 34.13%
+
+data: minmax
+
+DNN
+Epoch 9/10 | Loss 1.2349 | Accuracy 68.79
+The test accuracy 69.28%
+
+1DCNN
+Epoch 9/10 | Loss 0.0000 | Accuracy 98.22
+The test accuracy 89.61%
+
+2DCNN
+Epoch 9/10 | Loss 0.1482 | Accuracy 56.58
+The test accuracy 60.67%
+
+
+data: std
+
+DNN
+Epoch 9/10 | Loss 2.2120 | Accuracy 22.32
+The test accuracy 14.72%
+
+1DCNN
+Epoch 9/10 | Loss 0.0001 | Accuracy 98.15
+The test accuracy 83.70%
+
+2DCNN
+Epoch 9/10 | Loss 0.0111 | Accuracy 66.72
+The test accuracy 65.97%
